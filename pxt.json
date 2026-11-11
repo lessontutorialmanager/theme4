@@ -1,0 +1,56 @@
+{
+    "name": "theme4",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "lesson1_mission1.md",
+        "lesson1_mission2.md",
+        "lesson1_mission3.md",
+        "lesson1_mission4.md",
+        "lesson2_mission1.md",
+        "lesson2_mission2.md",
+        "lesson2_mission3.md",
+        "lesson2_mission4.md",
+        "lesson3_mission1.md",
+        "lesson3_mission2.md",
+        "lesson3_mission3.md",
+        "lesson3_mission4.md",
+        "lesson4_mission1.md",
+        "lesson4_mission2.md",
+        "lesson4_mission3.md",
+        "lesson4_mission4.md",
+        "lesson5_mission1.md",
+        "lesson5_mission2.md",
+        "lesson5_mission3.md",
+        "lesson5_mission4.md",
+        "lesson6_mission1.md",
+        "lesson6_mission2.md",
+        "lesson6_mission3.md",
+        "lesson6_mission4.md",
+        "lesson7_mission1.md",
+        "lesson7_mission2.md",
+        "lesson7_mission3.md",
+        "lesson7_mission4.md",
+        "lesson8_mission1.md",
+        "lesson8_mission2.md",
+        "lesson8_mission3.md",
+        "lesson8_mission4.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.2.10",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
